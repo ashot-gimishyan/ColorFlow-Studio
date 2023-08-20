@@ -13,17 +13,17 @@ ColorFlow-Studio is a simple drawing application built using Python and the Tkin
 
 To run the application, you'll need Python installed on your machine.
 
-1. Clone this repository:
+1. Clone this repository
 
 ```bash
 https://github.com/ashot-gimishyan/ColorFlow-Studio.git
 ```
-2. Navigate to the project directory:
+2. Navigate to the project directory
 
 ```bash
 cd ColorFlow-Studio
 ```
-3. Run the application:
+3. Run the application
 
 ```bash
 python colorflow.py
