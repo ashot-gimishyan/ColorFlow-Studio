@@ -5,7 +5,7 @@ from tkinter.colorchooser import askcolor
 class DrawingApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Простое приложение для рисования")
+        self.root.title("Приложение для рисования")
 
         self.canvas = tk.Canvas(root, bg="white", width=600, height=400)
         self.canvas.pack()
