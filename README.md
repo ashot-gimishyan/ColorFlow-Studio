@@ -1,6 +1,6 @@
 # ColorFlow-Studio
 
-ColorFlow-Studio is a simple drawing application built using Python and the Tkinter library. With ArtisticCanvas, users can create drawings and simple graphics with ease.
+ColorFlow-Studio is a drawing application built using Python and the Tkinter library. With ColorFlow-Studio users can create drawings and simple graphics with ease.
 
 ## Features
 
@@ -13,20 +13,20 @@ ColorFlow-Studio is a simple drawing application built using Python and the Tkin
 
 To run the application, you'll need Python installed on your machine.
 
-1. Clone this repository
+1. Clone this repository:
 
 ```bash
-https://github.com/ashot-gimishyan/ColorFlow-Studio.git
+git clone https://github.com/ashot-gimishyan/ColorFlow-Studio.git
 ```
-2. Navigate to the project directory
+2. Navigate to the project directory:
 
 ```bash
 cd ColorFlow-Studio
 ```
-3. Run the application
+3. Run the application:
 
 ```bash
-python colorflow.py
+python3 colorflow.py
 ```
 
 ## Usage
@@ -40,7 +40,3 @@ python colorflow.py
 ## Contributing
 
 Contributions are welcome! If you have any improvements or new features you'd like to add, feel free to fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
